@@ -1,0 +1,22 @@
+.food-row {
+    height: 64px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.counter-wrapper {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    justify-content: space-between;
+}
+
+.f0 {
+    background-color: #eee;
+}
+
+.f1 {
+    background-color: #fff;
+}
